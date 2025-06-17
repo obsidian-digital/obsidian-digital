@@ -32,16 +32,16 @@ Soy el fundador de **Obsidian Digital**, donde transformamos ideas en experienci
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=obsidian-digital&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obsidian-digital&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🌟 Proyectos Destacados
 
-### 🚀 [Obsidian Digital Website](https://tu-usuario.github.io/obsidian-digital)
+### 🚀 [Obsidian Digital Website](https://obsidian-digital.github.io/obsidian-digital)
 Sitio web corporativo moderno con diseño responsive y optimizado para SEO.
 
 **Tech Stack:** HTML5, CSS3, JavaScript, EmailJS
@@ -80,5 +80,5 @@ Sitio web corporativo moderno con diseño responsive y optimizado para SEO.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=obsidian-digital&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
