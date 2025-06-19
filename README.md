@@ -41,7 +41,7 @@ Soy el fundador de **Obsidian Digital**, donde transformamos ideas en experienci
 
 ## 🌟 Proyectos Destacados
 
-### 🚀 [Obsidian Digital Website](https://obsidian-digital.github.io/obsidian-digital)
+### 🚀 [Obsidian Digital Website](https://obsidian-digital.github.io/obsidian-web)
 Sitio web corporativo moderno con diseño responsive y optimizado para SEO.
 
 **Tech Stack:** HTML5, CSS3, JavaScript, EmailJS
@@ -63,7 +63,7 @@ Sitio web corporativo moderno con diseño responsive y optimizado para SEO.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/juan-pablo-modica-7b373a36b)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/obsidiandigital.ar)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/obsidiandigital)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/obsidian_web)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5492613444623)
 
 </div>
